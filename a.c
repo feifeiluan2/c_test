@@ -1,4 +1,4 @@
-/* 
+﻿/* 
 git 试用
 */
 
@@ -6,7 +6,11 @@ git 试用
 
 int main(void)
 {
-
+	printf("git试用,!!\n");
+	printf("git试用,!!\n");
+	printf("git试用,!!\n");
+	
+	return 0;
 }
 
 
